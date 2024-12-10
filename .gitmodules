@@ -1,3 +1,6 @@
 [submodule "Message-Broker"]
 	path = Message-Broker
 	url = https://github.com/resilmesh2/Message-Broker.git
+[submodule "Event-Enrichment"]
+	path = Event-Enrichment
+	url = https://github.com/resilmesh2/Event-Enrichment.git
